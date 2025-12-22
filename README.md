@@ -69,6 +69,3 @@ Licensed under the [MIT License](LICENSE).
 ---
 
 **Learning every day. One problem at a time. 🚀**
-```
-
----
