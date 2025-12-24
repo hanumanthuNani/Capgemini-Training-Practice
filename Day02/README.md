@@ -1,123 +1,52 @@
-# Day 02 - Control Structures and Loops
+# Day 02 – Control Flow Practice (Java)
 
-## 📅 Date
-Day 2 of Training
+## 📌 Overview
+This day focuses on strengthening **control flow logic** in Java using:
+- if–else statements
+- switch cases
+- loops
+- basic input validation
 
-## 🎯 Topics Covered
-- if-else statements
-- switch-case statements
-- for loops
-- while loops
-- do-while loops
-
-## 📝 Problems
-
-### Problem 1: Even or Odd
-
-**Description:**
-Write a program to check if a number is even or odd using if-else.
-
-**Input:**
-```
-Enter a number: 7
-```
-
-**Output:**
-```
-7 is odd
-```
-
-**Constraints:**
-- Use if-else statement
-- Handle negative numbers
-
-**Solution:** `src/EvenOdd.java`
+The programs are designed to improve decision-making and conditional thinking,
+which are essential for real-world programming and interviews.
 
 ---
 
-### Problem 2: Grade Calculator
+## 🗂 Programs Practiced
 
-**Description:**
-Create a program that takes a score (0-100) and prints the grade using switch-case or if-else.
-- A: 90-100
-- B: 80-89
-- C: 70-79
-- D: 60-69
-- F: Below 60
-
-**Input:**
-```
-Enter score: 85
-```
-
-**Output:**
-```
-Grade: B
-```
-
-**Constraints:**
-- Validate input range (0-100)
-
-**Solution:** `src/GradeCalculator.java`
+| File Name | Description |
+|---------|-------------|
+| AllowLogin.java | Validates login based on given conditions |
+| AsciiFinder.java | Finds ASCII value of a given character |
+| CountNum.java | Counts numbers based on conditions |
+| DaysFinder.java | Determines day type (weekday/weekend/invalid) |
+| GradeFinder.java | Calculates grade based on marks |
+| NaturalSumFinder.java | Finds sum of natural numbers |
+| NumberValidater.java | Validates whether input number meets conditions |
+| OddFinder.java | Finds odd numbers in a given range |
+| SumOfNaturalNumber.java | Calculates sum of first N natural numbers |
+| TableFinder.java | Prints multiplication table |
+| VowConFinder.java | Checks whether character is vowel or consonant |
 
 ---
 
-### Problem 3: Multiplication Table
-
-**Description:**
-Print the multiplication table for a given number using loops.
-
-**Input:**
-```
-Enter a number: 5
-```
-
-**Output:**
-```
-5 x 1 = 5
-5 x 2 = 10
-5 x 3 = 15
-...
-5 x 10 = 50
-```
-
-**Constraints:**
-- Print table from 1 to 10
-- Use for loop
-
-**Solution:** `src/MultiplicationTable.java`
+## 🎯 Key Concepts Covered
+- Conditional statements (`if`, `else if`, `else`)
+- Switch case
+- Relational & logical operators
+- Loop fundamentals
+- Input validation
+- Clean output formatting
 
 ---
 
-### Problem 4: Sum of Natural Numbers
-
-**Description:**
-Calculate the sum of first N natural numbers using a while loop.
-
-**Input:**
-```
-Enter N: 10
-```
-
-**Output:**
-```
-Sum of first 10 natural numbers: 55
-```
-
-**Constraints:**
-- N should be positive
-- Use while loop
-
-**Solution:** `src/SumNatural.java`
+## 🚀 Outcome
+By completing Day-02:
+- Improved logical thinking
+- Better understanding of program flow
+- Strong foundation for loops and number-based problems
 
 ---
 
-## 🔗 Resources
-- [Java Control Flow](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)
-- [Loop Statements](https://www.w3schools.com/java/java_while_loop.asp)
-
-## ✅ Completion Status
-- [ ] Problem 1 - Even or Odd
-- [ ] Problem 2 - Grade Calculator
-- [ ] Problem 3 - Multiplication Table
-- [ ] Problem 4 - Sum of Natural Numbers
+📅 **Training Day:** 2  
+🧑‍💻 **Language:** Java  
